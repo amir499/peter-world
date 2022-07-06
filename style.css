@@ -1,0 +1,79 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.top-banner {
+    padding: 2%;
+    height: 500px;
+    display: flex;
+    background: url();
+
+
+
+
+
+}
+
+.half {
+    width: 50%;
+    margin-left: 5%;
+}
+
+.half img {
+    width: 80%;
+}
+
+.peter {
+    color: orange;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.dream {
+    width: 100%;
+    padding-top: 20px;
+    background-position: :center;
+    height: 500px;
+    display: flex;
+    margin-top: 150px;
+
+    background-image: url();
+
+}
+
+.exp {
+    display: flex;
+    width: 100%;
+    margin-bottom: -20px;
+
+}
+
+.m {
+    margin-top: 50px;
+}
+
+.half2 {
+    width: 50%;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 16px 11px 39px gray;
+}
+
+.init {
+    text-align: center;
+    margin-top: 100px;
+}
